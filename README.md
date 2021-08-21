@@ -6,5 +6,5 @@ utilizada no mercado assim como conceitos de responsividade.
 * HTML5
 * CSS3
 
-<img src="https://i.redd.it/fdkk4ajqzmi71.png">
+<img src="https://i.redd.it/fdkk4ajqzmi71.png" alt="Instagram Web Login">
 
